@@ -1,0 +1,54 @@
+@charset "utf-8";
+@charset "utf-8";
+
+ /*平均分配*/
+.gp-avg-1 > li{width: 100%;}
+.gp-avg-2 > li{width: 49.9%;}
+.gp-avg-3 > li{width: 33.2%;}
+.gp-avg-4 > li{width: 24.9%;}
+.gp-avg-5 > li{width: 19.9%;}
+
+.gp-avg-xxs-1 > li{width: 100%;}
+.gp-avg-xxs-2 > li{width: 49.9%;}
+.gp-avg-xxs-3 > li{width: 33.2%;}
+.gp-avg-xxs-4 > li{width: 24.9%;}
+.gp-avg-xxs-5 > li{width: 19.9%;}
+
+.gp-avg-xs-1 > li{width: 100%;}
+.gp-avg-xs-2 > li{width: 49.9%;}
+.gp-avg-xs-3 > li{width: 33.2%;}
+.gp-avg-xs-4 > li{width: 24.9%;}
+.gp-avg-xs-5 > li{width: 19.9%;}
+
+.gp-avg-sm-1 > li{width: 100%;}
+.gp-avg-sm-2 > li{width: 49.9%;}
+.gp-avg-sm-3 > li{width: 33.2%;}
+.gp-avg-sm-4 > li{width: 24.9%;}
+.gp-avg-sm-5 > li{width: 19.9%;}
+
+.gp-avg-md-1 > li{width: 100%;}
+.gp-avg-md-2 > li{width: 49.9%;}
+.gp-avg-md-3 > li{width: 33.2%;}
+.gp-avg-md-4 > li{width: 24.9%;}
+.gp-avg-md-5 > li{width: 19.9%;}
+
+.gp-avg-lg-1 > li{width: 100%;}
+.gp-avg-lg-2 > li{width: 49.9%;}
+.gp-avg-lg-3 > li{width: 33.2%;}
+.gp-avg-lg-4 > li{width: 24.9%;}
+.gp-avg-lg-5 > li{width: 19.9%;}
+
+.nav > ul > li{width: 16.66%;}
+.nav > ul > li:before{display: none;}
+.gp-subNav{border:1px solid #eee;border-top: none;}
+.content .til_tab:before{display: none;}
+.content .til_tab.on:before{display: block;}
+.readMore2{margin-left: -80px;}
+.bmbct-column5,.bmbct-column6{*width: 507px;}
+.mode01{border-bottom: 1px solid #eee;;}
+.item-txt01:before{display: none;}
+.item-txt01{background: #999;}
+.sub_right{margin-left: 280px;}
+.wrap_bread:before{display: none;}
+.wrap_bread{background: #999;}
+.bmbct-list16 li{*white-space: normal;}
